@@ -1,0 +1,59 @@
+# Data directories
+Data/
+AudioMoth Room Data/
+Heat_pump/
+HP2/
+clusters/
+new_clusters/
+room_clusters/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files
+*.csv
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Environment
+.env
+.venv
+venv/
+ENV/ 
